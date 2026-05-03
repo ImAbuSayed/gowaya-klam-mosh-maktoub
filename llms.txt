@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Gowaya Klam Mosh Maktoub |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/gowaya-klam-mosh-maktoub/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في السكون أناديكِ
+> أشواقي نار في الظلام تناجيكِ
+> تعالي بحضني دعيني أدفيكِ
+> قلبي لكِ، روحي اليوم تناديكِ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
