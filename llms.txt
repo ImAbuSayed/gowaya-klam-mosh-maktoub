@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/gowaya-klam-mosh-maktoub/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Gowaya Klam Mosh Maktoub](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Gowaya Klam Mosh Maktoub](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
