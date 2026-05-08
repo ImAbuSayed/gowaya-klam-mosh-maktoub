@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Klam Mosh Maktoub
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Klam Mosh Maktoub** (gowaya-klam-mosh-maktoub).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:11:18.162845 | `v1` | `6fd4e936be7606cfbebd10dcc647218f61831af3b6bb76b19a4d2c23cf57ae62` | `d929f737a8c6f67dcbeddfbaeff768bd5f409ce18fcf8434673ca75f8ab36fde` | `2026-05-08_gowaya-klam-mosh-maktoub-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
